@@ -1,4 +1,4 @@
-# Content: Reinforcement Learning
+# Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
 ## Project Overview
@@ -31,7 +31,7 @@ The PyGame library can in some cases require a bit of troubleshooting to work co
 - [Google Group](https://groups.google.com/forum/#!forum/pygame-mirror-on-google-groups)
 - [PyGame subreddit](https://www.reddit.com/r/pygame/)
 
-### Problems most often reported by students
+### Problems most often reported
 _"PyGame won't install on my machine; there was an issue with the installation."_  
 **Solution:** As has been recommended for previous projects, Udacity suggests that you are using the Anaconda distribution of Python, which can then allow you to install PyGame through the `conda`-specific command.
 
@@ -88,20 +88,3 @@ The *smartcab* will receive positive or negative rewards based on the action it 
 
 ### Evaluation
 Your project will be reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/106/view" target="_blank">Train a Smartcab to Drive project rubric</a>**. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be *meeting specifications* for you to pass.
-
-### Submission Files
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named `smartcab` for ease of access:
-- The `agent.py` Python file with all code implemented as required in the instructed tasks.
-- The `/logs/` folder which should contain **five** log files that were produced from your simulation and used in the analysis.
-- The `smartcab.ipynb` notebook file with all questions answered and all visualization cells executed and displaying results.
- - An **HTML** export of the project notebook with the name **report.html**. This file *must* be present for your project to be evaluated.
-
-Once you have collected these files and reviewed the project rubric, proceed to the project submission page.
-
-### I'm Ready!
-When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
-
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
-
-### What's Next?
-You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!

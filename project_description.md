@@ -68,7 +68,7 @@ In a terminal or command window, navigate to the top-level project directory `sm
 `python smartcab/agent.py` or  
 `python -m smartcab.agent`
 
-This will run the `agent.py` file and execute your implemented agent code into the environment. Additionally, use the command `jupyter notebook smartcab.ipynb` from this same directory to open up a browser window or tab to work with your analysis notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the implementation necessary for your `agent.py` agent file. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project.
+This will run the `agent.py` file and execute your implemented agent code into the environment.
 
 ## Definitions
 
